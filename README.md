@@ -1,11 +1,6 @@
 ## Olá!👋
 
-<div>
-  <br>
-  <a href="https://github.com/LuisHBM">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuisHBM&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisHBM&layout=compact&langs_count=7&theme=react"/>
-</div>
+<p>Olá meu nome é Luís Henrique, atualmente estou cursando bacharelado em Sistemas de Informação pela Universidade Estadual da Bahia (UNEB) e fazendo parte do núcleo de pesquisa ACSO como bolsista, atuando especificamente na modalidade VSSS (Very Small Size Soccer).</p>
 
 ##
 <h3>Tecnologias</h3>
