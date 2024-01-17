@@ -1,6 +1,6 @@
 ## Olá!👋
 
-<p>Olá! Meu nome é Luís Henrique, atualmente estou cursando bacharelado em Sistemas de Informação pela Universidade Estadual da Bahia (UNEB) e fazendo parte do núcleo de pesquisa ACSO como bolsista, atuando especificamente na modalidade VSSS (Very Small Size Soccer).</p>
+<p>Olá! Meu nome é Luís Henrique, atualmente estou cursando bacharelado em Sistemas de Informação pela Universidade Estadual da Bahia (UNEB) e fazendo parte do núcleo de pesquisa ACSO como ex-bolsista, atuando especificamente na modalidade VSSS (Very Small Size Soccer).</p>
 
 ##
 <h3>Tecnologias</h3>
