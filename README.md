@@ -1,6 +1,6 @@
 ## Olá!👋
 
-<p>Olá! Meu nome é Luís Henrique, estou atualmente estou cursando bacharelado em Sistemas de Informação pela Universidade Estadual da Bahia (UNEB) e fazendo parte do núcleo de pesquisa ACSO como voluntário, atuando especificamente na modalidade Simulation 3D.</p>
+<p>Olá! Meu nome é Luís Henrique, sou graduando em Sistemas de Informação pela Universidade Estadual da Bahia (UNEB) e faço parte do núcleo de pesquisa ACSO como voluntário, onde desenvolvendo pesquisas especificamente na área de robôs humanóides.</p>
 
 ##
 <h3>Tecnologias</h3>
